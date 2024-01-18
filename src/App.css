@@ -1,13 +1,5 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
 .App {
   text-align: center;
-}
-
-.no-scrollbar::-webkit-scrollbar {
-  display: none;
 }
 
 .App-logo {
